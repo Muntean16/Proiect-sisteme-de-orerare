@@ -3,7 +3,7 @@ Acest proiect monitorizeaza  realizat in principla in c monitorizarea modificari
 
 Exista 3 tipuri de directoare 
 
-* cele fara fleg care trebuir monitorizate
+* cele fara fleg care trebuie monitorizate
 
 * cel cu fleg -o in care vom pune rezultatele monitorizarii
 
